@@ -27,5 +27,12 @@ public class AndruinoService {
     public List<TempStamp> getAllTempStamp() {
         return tempStampRepository.findAll();
     }
+
+    public TempStamp fetchLive() {
+        TempStamp liveTempStamp = new TempStamp();
+        liveTempStamp.setTemp("25.0");
+        liveTempStamp.setHumidity("50.0");
+        return liveTempStamp;
+    }
     
 }

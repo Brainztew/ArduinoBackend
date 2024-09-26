@@ -21,9 +21,11 @@ public class AndruinoController {
     @Autowired
     AndruinoService andruinoService;
 
+    private TempStamp liveTempStamp;
+
     @PostMapping("/temp")
     public TempStamp SaveTemp(@RequestBody TempStamp tempStamp) {
-        System.out.println("from andruino: " + tempStamp);
+        System.out.println("from andruino: " + tempStamp.getHumidity() + " " + tempStamp.getTemp());
         if (tempStamp.getTemp() == null) {
             throw new IllegalArgumentException("Temp is required");
         } if (tempStamp.getHumidity() == null) {
@@ -40,6 +42,27 @@ public class AndruinoController {
     @GetMapping("/root")
     public String getRoot() {
         return "Hello World";
+    }
+
+    @GetMapping("/live")
+    public TempStamp getLive() {
+        if (liveTempStamp == null) {
+            return null;  
+        }
+        return liveTempStamp;
+    }
+
+    @PostMapping("/live")
+    public TempStamp postLive(@RequestBody TempStamp tempStamp) {
+        System.out.println("Live data from Arduino: " + tempStamp.getHumidity() + " " + tempStamp.getTemp());
+        if (tempStamp.getTemp() == null) {
+            throw new IllegalArgumentException("Temp is required");
+        }
+        if (tempStamp.getHumidity() == null) {
+            throw new IllegalArgumentException("Humidity is required");
+        }
+        liveTempStamp = tempStamp;
+        return tempStamp;
     }
     
     
