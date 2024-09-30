@@ -64,6 +64,12 @@ public class AndruinoController {
         liveTempStamp = tempStamp;
         return tempStamp;
     }
+
+    @GetMapping("/time") 
+    public String getTime() {
+        System.out.println("Sending date and time!");
+        return andruinoService.getTime();
+    }
     
     
 }
