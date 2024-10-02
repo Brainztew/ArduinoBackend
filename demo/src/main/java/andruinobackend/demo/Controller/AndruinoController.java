@@ -39,15 +39,14 @@ public class AndruinoController {
         return andruinoService.getAllTempStamp();
     }
 
-    @GetMapping("/root")
-    public String getRoot() {
-        return "Hello World";
-    }
 
     @GetMapping("/live")
     public TempStamp getLive() {
         if (liveTempStamp == null) {
-            return null;  
+            TempStamp noLiveTempStamp = new TempStamp();
+            noLiveTempStamp.setTemp("Inte startad");
+            noLiveTempStamp.setHumidity("inte startad");
+            return noLiveTempStamp;  
         }
         return liveTempStamp;
     }
