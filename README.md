@@ -11,6 +11,7 @@ server.address=0.0.0.0
 server.port=3000
 7. Du kan övervaka databasen med Studio3T eller MongodbCompass
 8. Starta projektet
+9. Ifall du vill använda data som samlats in kan du importera databsen som ligger i rooten andruinodb.tempStamp.json
 
 ## För att starta frontend:
 1. Se till att ha node.js installerat
