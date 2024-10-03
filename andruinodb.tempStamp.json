@@ -1,0 +1,1804 @@
+[{
+  "_id": {
+    "$oid": "66f55dd0538d663d0308e1b4"
+  },
+  "temp": "22.10",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-26T15:12:48.693Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f564a3538d663d0308e1b5"
+  },
+  "temp": "21.90",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-26T15:41:55.090Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f56654538d663d0308e1b6"
+  },
+  "temp": "21.80",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-26T15:49:08.684Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f56bae538d663d0308e1b7"
+  },
+  "temp": "21.90",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T16:11:58.742Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57066538d663d0308e1b8"
+  },
+  "temp": "22.10",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-26T16:32:06.141Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57088538d663d0308e1b9"
+  },
+  "temp": "22.20",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-26T16:32:40.011Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e299b2f9669350fd2b7"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:30:49.410Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e319b2f9669350fd2b8"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:30:57.079Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e409b2f9669350fd2b9"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:31:12.844Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e4b9b2f9669350fd2ba"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:31:23.270Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e589b2f9669350fd2bb"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:31:36.444Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e749b2f9669350fd2bc"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:32:04.089Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f57e8b9b2f9669350fd2bd"
+  },
+  "temp": "21.70",
+  "humidity": "51.00",
+  "tempDate": {
+    "$date": "2024-09-26T17:32:27.672Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f61e969b2f9669350fd2be"
+  },
+  "temp": "20.80",
+  "humidity": "54.00",
+  "tempDate": {
+    "$date": "2024-09-27T04:55:18.676Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f6259c9b2f9669350fd2bf"
+  },
+  "temp": "21.10",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T05:25:16.119Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f62ca79b2f9669350fd2c0"
+  },
+  "temp": "21.00",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T05:55:19.768Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f633b39b2f9669350fd2c1"
+  },
+  "temp": "20.90",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T06:25:23.378Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f63abe9b2f9669350fd2c2"
+  },
+  "temp": "20.80",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T06:55:26.886Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f641ca9b2f9669350fd2c3"
+  },
+  "temp": "20.70",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T07:25:30.469Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f648d59b2f9669350fd2c4"
+  },
+  "temp": "20.70",
+  "humidity": "52.00",
+  "tempDate": {
+    "$date": "2024-09-27T07:55:33.805Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f6dc909ef3582f0b66ac76"
+  },
+  "temp": "21.30",
+  "humidity": "53.00",
+  "tempDate": {
+    "$date": "2024-09-27T18:25:52.811Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f6e2b59ef3582f0b66ac77"
+  },
+  "temp": "21.50",
+  "humidity": "53.00",
+  "tempDate": {
+    "$date": "2024-09-27T18:52:05.443Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f7aebf7fa383469a62734b"
+  },
+  "temp": "21.90",
+  "humidity": "48.00",
+  "tempDate": {
+    "$date": "2024-09-28T09:22:39.212Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f7b5cb7fa383469a62734c"
+  },
+  "temp": "21.70",
+  "humidity": "49.00",
+  "tempDate": {
+    "$date": "2024-09-28T09:52:43.066Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f7bcd77fa383469a62734d"
+  },
+  "temp": "21.50",
+  "humidity": "47.00",
+  "tempDate": {
+    "$date": "2024-09-28T10:22:47.032Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66f7c0387fa383469a62734e"
+  },
+  "temp": "21.30",
+  "humidity": "47.00",
+  "tempDate": {
+    "$date": "2024-09-28T10:37:12.688Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa5564c8462d6dfbaca55e"
+  },
+  "temp": "22.60",
+  "humidity": "42.00",
+  "tempDate": {
+    "$date": "2024-09-30T09:38:12.778Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa6686c8462d6dfbaca55f"
+  },
+  "temp": "23.50",
+  "humidity": "44.00",
+  "tempDate": {
+    "$date": "2024-09-30T10:51:18.705Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa890fc8462d6dfbaca560"
+  },
+  "temp": "23.60",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-09-30T13:18:39.789Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa9086c8462d6dfbaca561"
+  },
+  "temp": "23.80",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-09-30T13:50:30.845Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa90eec8462d6dfbaca562"
+  },
+  "temp": "23.90",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-09-30T13:52:14.882Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa92cfc8462d6dfbaca563"
+  },
+  "temp": "23.90",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-09-30T14:00:15.564Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa9301c8462d6dfbaca564"
+  },
+  "temp": "23.90",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-09-30T14:01:05.677Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa94b6c8462d6dfbaca568"
+  },
+  "temp": "24.00",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-09-30T14:08:22.183Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fa94fbc8462d6dfbaca56a"
+  },
+  "temp": "24.00",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-09-30T12:09:31.267Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fab2e20d2aa32c509f993b"
+  },
+  "temp": "22.70",
+  "humidity": "30.00",
+  "tempDate": {
+    "$date": "2024-09-30T14:17:06.869Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66faba040d2aa32c509f993c"
+  },
+  "temp": "22.60",
+  "humidity": "28.00",
+  "tempDate": {
+    "$date": "2024-09-30T14:47:32.361Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fac12a0d2aa32c509f993d"
+  },
+  "temp": "22.90",
+  "humidity": "32.00",
+  "tempDate": {
+    "$date": "2024-09-30T15:18:02.269Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fac8490d2aa32c509f993e"
+  },
+  "temp": "23.10",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-09-30T15:48:25.981Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66facf6a0d2aa32c509f993f"
+  },
+  "temp": "22.50",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-09-30T16:18:50.735Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fad68c0d2aa32c509f9940"
+  },
+  "temp": "23.10",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-09-30T16:49:16.626Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fae74a0d2aa32c509f9941"
+  },
+  "temp": "22.20",
+  "humidity": "32.00",
+  "tempDate": {
+    "$date": "2024-09-30T18:00:42.285Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbacfabe57984bbb7a230c"
+  },
+  "temp": "22.90",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:04:10.246Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbad1abe57984bbb7a230d"
+  },
+  "temp": "22.90",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:04:42.604Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbae9bbe57984bbb7a230e"
+  },
+  "temp": "23.20",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:11:07.116Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb057be57984bbb7a230f"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:31.809Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb05dbe57984bbb7a2310"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:37.097Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb05dbe57984bbb7a2311"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:37.442Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb062be57984bbb7a2312"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:42.732Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb063be57984bbb7a2313"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:43.083Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb068be57984bbb7a2314"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:48.373Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb068be57984bbb7a2315"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:48.723Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb06ebe57984bbb7a2316"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:54.010Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb06ebe57984bbb7a2317"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:18:54.373Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb075be57984bbb7a2318"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:01.480Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb075be57984bbb7a2319"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:01.850Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb07fbe57984bbb7a231a"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:11.260Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb07fbe57984bbb7a231b"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:11.670Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb084be57984bbb7a231c"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:16.901Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb085be57984bbb7a231d"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:17.241Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb08abe57984bbb7a231e"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:22.567Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb08abe57984bbb7a231f"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:22.886Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb090be57984bbb7a2320"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:28.180Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb090be57984bbb7a2321"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:28.530Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb097be57984bbb7a2322"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:35.643Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb098be57984bbb7a2323"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:36.014Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0a0be57984bbb7a2324"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:44.691Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0a5be57984bbb7a2325"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:49.983Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0a6be57984bbb7a2326"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:50.377Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0abbe57984bbb7a2327"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:55.627Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0abbe57984bbb7a2328"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:19:55.965Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0b1be57984bbb7a2329"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:01.266Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0b1be57984bbb7a232a"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:01.642Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0b6be57984bbb7a232b"
+  },
+  "temp": "23.00",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:06.967Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0b7be57984bbb7a232c"
+  },
+  "temp": "23.00",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:07.257Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0bebe57984bbb7a232d"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:14.371Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0bebe57984bbb7a232e"
+  },
+  "temp": "23.00",
+  "humidity": "42.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:14.735Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0c4be57984bbb7a232f"
+  },
+  "temp": "23.00",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:20.027Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0c4be57984bbb7a2330"
+  },
+  "temp": "23.00",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:20.380Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0ddbe57984bbb7a2331"
+  },
+  "temp": "23.00",
+  "humidity": "43.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:45.255Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0e2be57984bbb7a2332"
+  },
+  "temp": "23.10",
+  "humidity": "45.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:50.561Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0e2be57984bbb7a2333"
+  },
+  "temp": "23.10",
+  "humidity": "45.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:50.890Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0e8be57984bbb7a2334"
+  },
+  "temp": "23.10",
+  "humidity": "44.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:56.202Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0e8be57984bbb7a2335"
+  },
+  "temp": "23.10",
+  "humidity": "44.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:20:56.530Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb0efbe57984bbb7a2336"
+  },
+  "temp": "23.10",
+  "humidity": "42.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:03.685Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb101be57984bbb7a2337"
+  },
+  "temp": "23.10",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:21.948Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb107be57984bbb7a2338"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:27.237Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb107be57984bbb7a2339"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:27.579Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb10cbe57984bbb7a233a"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:32.879Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb10dbe57984bbb7a233b"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:33.238Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb114be57984bbb7a233c"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:40.540Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb114be57984bbb7a233d"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:40.919Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb11abe57984bbb7a233e"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:46.216Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb11cbe57984bbb7a233f"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:48.035Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb121be57984bbb7a2340"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:53.313Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb121be57984bbb7a2341"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:53.656Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb126be57984bbb7a2342"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:58.948Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb127be57984bbb7a2343"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:21:59.296Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb12cbe57984bbb7a2344"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:04.593Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb12dbe57984bbb7a2345"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:05.035Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb134be57984bbb7a2346"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:12.273Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb134be57984bbb7a2347"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:12.644Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb147be57984bbb7a2348"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:31.298Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb163be57984bbb7a2349"
+  },
+  "temp": "23.20",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T08:22:59.450Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb20a3535b57cd1b15e58"
+  },
+  "temp": "23.20",
+  "humidity": "42.00",
+  "tempDate": {
+    "$date": "2024-10-01T10:25:46.098Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb2793535b57cd1b15e59"
+  },
+  "temp": "23.20",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T10:27:37.180Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb2f33535b57cd1b15e5a"
+  },
+  "temp": "23.20",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T10:29:39.250Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb379b146b4053e9a7ad5"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T10:31:53.458Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbb3eeb146b4053e9a7ad6"
+  },
+  "temp": "23.10",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T10:33:50.146Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbbaf3b146b4053e9a7ad7"
+  },
+  "temp": "22.50",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T11:03:47.316Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbc200b146b4053e9a7ad8"
+  },
+  "temp": "22.70",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T11:33:52.434Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbc90db146b4053e9a7ad9"
+  },
+  "temp": "22.90",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T12:03:57.605Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbd01ab146b4053e9a7ada"
+  },
+  "temp": "23.00",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T12:34:02.836Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbd728b146b4053e9a7adb"
+  },
+  "temp": "22.90",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T13:04:08.249Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbde35b146b4053e9a7adc"
+  },
+  "temp": "21.00",
+  "humidity": "32.00",
+  "tempDate": {
+    "$date": "2024-10-01T13:34:13.731Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe589b146b4053e9a7add"
+  },
+  "temp": "22.20",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:05:29.048Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe5c6b146b4053e9a7ade"
+  },
+  "temp": "22.20",
+  "humidity": "35.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:06:30.230Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe65ab146b4053e9a7adf"
+  },
+  "temp": "22.30",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:08:58.046Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe746b146b4053e9a7ae0"
+  },
+  "temp": "22.50",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:12:54.218Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe9a3b146b4053e9a7ae1"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:22:59.156Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbe9d5b146b4053e9a7ae2"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:23:49.536Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbeaaab146b4053e9a7ae3"
+  },
+  "temp": "22.70",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:27:22.199Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbeab3b146b4053e9a7ae4"
+  },
+  "temp": "22.80",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:27:31.800Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbeac1b146b4053e9a7ae5"
+  },
+  "temp": "22.80",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:27:45.932Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbec35b146b4053e9a7ae6"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:33:57.985Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbec79b146b4053e9a7ae7"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:35:05.222Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbec81b146b4053e9a7ae8"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:35:13.363Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecb4b146b4053e9a7ae9"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:04.885Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecb5b146b4053e9a7aea"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:05.231Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecbab146b4053e9a7aeb"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:10.552Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecbab146b4053e9a7aec"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:10.904Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecc1b146b4053e9a7aed"
+  },
+  "temp": "23.00",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:17.826Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecc2b146b4053e9a7aee"
+  },
+  "temp": "23.10",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:18.226Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbecd8b146b4053e9a7aef"
+  },
+  "temp": "23.00",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:36:40.360Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbee2db146b4053e9a7af0"
+  },
+  "temp": "22.80",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:42:21.185Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbef42b146b4053e9a7af1"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:46:58.793Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbef4fb146b4053e9a7af2"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:47:11.045Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbefdeb146b4053e9a7af3"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:49:34.188Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf01cb146b4053e9a7af4"
+  },
+  "temp": "22.80",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T14:50:36.577Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf352b146b4053e9a7af5"
+  },
+  "temp": "23.00",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:04:18.149Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf35cb146b4053e9a7af6"
+  },
+  "temp": "23.00",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:04:28.629Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf371b146b4053e9a7af7"
+  },
+  "temp": "23.00",
+  "humidity": "39.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:04:49.170Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf382b146b4053e9a7af8"
+  },
+  "temp": "23.10",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:05:06.590Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf5d8b146b4053e9a7af9"
+  },
+  "temp": "22.50",
+  "humidity": "34.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:15:04.897Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf5e3b146b4053e9a7afa"
+  },
+  "temp": "22.50",
+  "humidity": "34.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:15:15.362Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf5edb146b4053e9a7afb"
+  },
+  "temp": "22.50",
+  "humidity": "34.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:15:25.902Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf5ffb146b4053e9a7afc"
+  },
+  "temp": "22.60",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:15:43.299Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf609b146b4053e9a7afd"
+  },
+  "temp": "22.60",
+  "humidity": "35.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:15:53.766Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf623b146b4053e9a7afe"
+  },
+  "temp": "22.60",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:16:19.935Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf62eb146b4053e9a7aff"
+  },
+  "temp": "22.60",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:16:30.403Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf641b146b4053e9a7b00"
+  },
+  "temp": "22.60",
+  "humidity": "36.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:16:49.825Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf675b146b4053e9a7b01"
+  },
+  "temp": "22.70",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:17:41.997Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf680b146b4053e9a7b02"
+  },
+  "temp": "22.70",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:17:52.469Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf69eb146b4053e9a7b03"
+  },
+  "temp": "22.70",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:18:22.108Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf6a8b146b4053e9a7b04"
+  },
+  "temp": "22.80",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:18:32.585Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf6b3b146b4053e9a7b05"
+  },
+  "temp": "22.70",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:18:43.054Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf6e6b146b4053e9a7b06"
+  },
+  "temp": "22.90",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:19:34.779Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf6f1b146b4053e9a7b07"
+  },
+  "temp": "22.90",
+  "humidity": "38.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:19:45.260Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbf74eb146b4053e9a7b08"
+  },
+  "temp": "22.90",
+  "humidity": "37.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:21:18.774Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fbfe43b146b4053e9a7b09"
+  },
+  "temp": "22.30",
+  "humidity": "40.00",
+  "tempDate": {
+    "$date": "2024-10-01T15:50:59.399Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fc0871b146b4053e9a7b0a"
+  },
+  "temp": "22.20",
+  "humidity": "41.00",
+  "tempDate": {
+    "$date": "2024-10-01T16:34:25.676Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fcf921eab39b5397c42bf2"
+  },
+  "temp": "21.90",
+  "humidity": "42.00",
+  "tempDate": {
+    "$date": "2024-10-02T09:41:21.920Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fcf92deab39b5397c42bf3"
+  },
+  "temp": "21.90",
+  "humidity": "43.00",
+  "tempDate": {
+    "$date": "2024-10-02T09:41:33.862Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+},
+{
+  "_id": {
+    "$oid": "66fcfa92eab39b5397c42bf4"
+  },
+  "temp": "22.20",
+  "humidity": "45.00",
+  "tempDate": {
+    "$date": "2024-10-02T09:47:30.697Z"
+  },
+  "_class": "andruinobackend.demo.Model.TempStamp"
+}]
